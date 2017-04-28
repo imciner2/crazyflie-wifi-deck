@@ -1,3 +1,6 @@
 [submodule "2-Hardware/libraries"]
 	path = 2-Hardware/libraries
 	url = https://github.com/imciner2/KiCad-Libraries
+[submodule "2-Hardware/deckTemplate"]
+	path = 2-Hardware/deckTemplate
+	url = https://github.com/bitcraze/crazyflie2-exp-template-electronics
